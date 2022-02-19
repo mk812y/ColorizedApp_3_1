@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A5345CEA27C16701002C4DE1 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5345CE927C16701002C4DE1 /* SliderView.swift */; };
 		A53979DB27BED5FA002A1DCF /* ColorizedApp_3_1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53979DA27BED5FA002A1DCF /* ColorizedApp_3_1App.swift */; };
 		A53979DD27BED5FA002A1DCF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A53979DC27BED5FA002A1DCF /* ContentView.swift */; };
 		A53979DF27BED5FB002A1DCF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A53979DE27BED5FB002A1DCF /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A5345CE927C16701002C4DE1 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 		A53979D727BED5FA002A1DCF /* ColorizedApp_3_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorizedApp_3_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A53979DA27BED5FA002A1DCF /* ColorizedApp_3_1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorizedApp_3_1App.swift; sourceTree = "<group>"; };
 		A53979DC27BED5FA002A1DCF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				A53979DA27BED5FA002A1DCF /* ColorizedApp_3_1App.swift */,
 				A53979DC27BED5FA002A1DCF /* ContentView.swift */,
+				A5345CE927C16701002C4DE1 /* SliderView.swift */,
 				A53979DE27BED5FB002A1DCF /* Assets.xcassets */,
 				A53979E027BED5FB002A1DCF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5345CEA27C16701002C4DE1 /* SliderView.swift in Sources */,
 				A53979DD27BED5FA002A1DCF /* ContentView.swift in Sources */,
 				A53979DB27BED5FA002A1DCF /* ColorizedApp_3_1App.swift in Sources */,
 			);
